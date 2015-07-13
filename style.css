@@ -1,0 +1,33 @@
+h1{
+  color:green;
+  text-align: center;
+}
+body {
+  background-image: url("http://kloptdatwel.nl/wp-content/uploads/swag.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.container{
+clear: both;
+width: 1200px;
+margin: 10px auto;
+}
+.one{
+margin:10px auto;
+background: rgba(0, 0, 0, 0.1);
+text-align: center;
+line-height: 453px;
+width: 500px;
+height: 453px;
+font-family: 'Open Sans';
+font-size: 40px;
+}
+.two{
+margin:10px auto;
+width: 500px;
+height: 453px;
+}
+.text{
+color: white;
+}
