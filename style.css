@@ -3,7 +3,8 @@ h1{
   text-align: center;
 }
 body {
-  background-image: url("http://kloptdatwel.nl/wp-content/uploads/swag.png");
+  /*background-image: url("http://kloptdatwel.nl/wp-content/uploads/swag.png");*/
+  background-image: url("http://www.nrcnext.nl/files/2011/10/pepernoten_groot.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
